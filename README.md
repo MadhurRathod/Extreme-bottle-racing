@@ -6,4 +6,4 @@ This is a game created by a team of 3.
 2. Shakeeba Khan
 3. Madhur Rathod
 
-Game is currently in development.
+Game is completed.
