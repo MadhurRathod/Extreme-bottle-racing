@@ -1,4 +1,4 @@
-# Bottle-climb-racing
+# Extreme-bottle-racing
 This is a 2D game where player need to collects bottle to clean environment with his truck.
 
 This is a game created by a team of 3.
