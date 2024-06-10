@@ -7,3 +7,5 @@ This is a game created by a team of 3.
 3. Madhur Rathod
 
 Game is completed.
+It was meant to be pused on repository called Bottle-climb-racing but due to conflicts it wasn't happening .
+That is the reason for creating this repository.
